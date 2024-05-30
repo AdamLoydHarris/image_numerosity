@@ -16,5 +16,3 @@ We are investigating this question by:
 2) Implementing a glimpse model that saccades over images based on a saliency map (Itti and Koch), and uses the saccade locations as auxillary information for relational reasoning 
 
 3) Collect human eye-tracking data and compare the performance of the glimpse model when using human vs artificial saccadic patterns
-
- ![alt text](https://github.com/adamharris95/AllSeeingEye/blob/master/eye.jpg)
